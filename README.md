@@ -31,8 +31,10 @@ To set up this project locally, follow the instructions below:
 
 1. **Clone the repository:**
    git clone https://github.com/your-username/air-pollution-prediction.git
-2. **Navigate to the project directory:**
+   
+3. **Navigate to the project directory:**
    cd air-pollution-prediction
+   
 3.**Install required packages:** 
    pip install -r requirements.txt
    

@@ -24,9 +24,6 @@ The dataset used in this project consists of hourly air quality measurements and
 - **PM2.5**: Fine Particulate Matter (particles <2.5 micrometers)
 - **PM10**: Coarse Particulate Matter (particles <10 micrometers)
 - **NH₃**: Ammonia concentration
-- **Temperature**: Ambient temperature
-- **Humidity**: Relative humidity
-- **WindSpeed**: Wind speed
 
 ## Installation
 
